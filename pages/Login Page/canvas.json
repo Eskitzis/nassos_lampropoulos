@@ -634,8 +634,8 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Login Page_fetch_users",
-              "name": "fetch_users",
+              "id": "Login Page_users",
+              "name": "users",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],
