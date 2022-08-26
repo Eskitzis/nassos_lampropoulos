@@ -17,6 +17,10 @@
       "isDefault": false
     },
     {
+      "id": "change_user",
+      "isDefault": false
+    },
+    {
       "id": "Projects",
       "isDefault": false
     },
